@@ -105,57 +105,57 @@ const technologies = [
 
 const experiences = [
     {
-        title: 'Industrial Talk Poster',
-        company_name: 'Technology & Information',
-        icon: starbucks,
-        bg: poster,
-        iconBg: '#383E56',
-        date: '2024',
-        points: [
-            'Download',
-            'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-            'Implementing responsive design and ensuring cross-browser compatibility.',
-            'Participating in code reviews and providing constructive feedback to other developers.',
-        ],
-    },
-    {
-        title: 'React Native Developer',
-        company_name: 'Tesla',
-        icon: tesla,
-        iconBg: '#E6DEDD',
-        date: 'Jan 2021 - Feb 2022',
-        points: [
-            'Developing and maintaining web applications using React.js and other related technologies.',
-            'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-            'Implementing responsive design and ensuring cross-browser compatibility.',
-            'Participating in code reviews and providing constructive feedback to other developers.',
-        ],
-    },
-    {
-        title: 'Web Developer',
-        company_name: 'Shopify',
-        icon: shopify,
-        iconBg: '#383E56',
-        date: 'Jan 2022 - Jan 2023',
-        points: [
-            'Developing and maintaining web applications using React.js and other related technologies.',
-            'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-            'Implementing responsive design and ensuring cross-browser compatibility.',
-            'Participating in code reviews and providing constructive feedback to other developers.',
-        ],
-    },
-    {
-        title: 'Full stack Developer',
-        company_name: 'Meta',
-        icon: meta,
-        iconBg: '#E6DEDD',
-        date: 'Jan 2023 - Present',
-        points: [
-            'Developing and maintaining web applications using React.js and other related technologies.',
-            'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-            'Implementing responsive design and ensuring cross-browser compatibility.',
-            'Participating in code reviews and providing constructive feedback to other developers.',
-        ],
+        //     title: 'Industrial Talk Poster',
+        //     company_name: 'Technology & Information',
+        //     icon: starbucks,
+        //     bg: poster,
+        //     iconBg: '#383E56',
+        //     date: '2024',
+        //     points: [
+        //         'Download',
+        //         'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+        //         'Implementing responsive design and ensuring cross-browser compatibility.',
+        //         'Participating in code reviews and providing constructive feedback to other developers.',
+        //     ],
+        // },
+        // {
+        //     title: 'React Native Developer',
+        //     company_name: 'Tesla',
+        //     icon: tesla,
+        //     iconBg: '#E6DEDD',
+        //     date: 'Jan 2021 - Feb 2022',
+        //     points: [
+        //         'Developing and maintaining web applications using React.js and other related technologies.',
+        //         'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+        //         'Implementing responsive design and ensuring cross-browser compatibility.',
+        //         'Participating in code reviews and providing constructive feedback to other developers.',
+        //     ],
+        // },
+        // {
+        //     title: 'Web Developer',
+        //     company_name: 'Shopify',
+        //     icon: shopify,
+        //     iconBg: '#383E56',
+        //     date: 'Jan 2022 - Jan 2023',
+        //     points: [
+        //         'Developing and maintaining web applications using React.js and other related technologies.',
+        //         'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+        //         'Implementing responsive design and ensuring cross-browser compatibility.',
+        //         'Participating in code reviews and providing constructive feedback to other developers.',
+        //     ],
+        // },
+        // {
+        //     title: 'Full stack Developer',
+        //     company_name: 'Meta',
+        //     icon: meta,
+        //     iconBg: '#E6DEDD',
+        //     date: 'Jan 2023 - Present',
+        //     points: [
+        //         'Developing and maintaining web applications using React.js and other related technologies.',
+        //         'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+        //         'Implementing responsive design and ensuring cross-browser compatibility.',
+        //         'Participating in code reviews and providing constructive feedback to other developers.',
+        //     ],
     },
 ];
 
@@ -189,8 +189,7 @@ const testimonials = [
 const projects = [
     {
         name: 'Industrial talk poster',
-        description:
-            'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+        description: '',// THis is Card Describtion
         tags: [
             {
                 name: 'UTM',
@@ -208,7 +207,7 @@ const projects = [
     {
         name: 'Industrial talk report',
         description:
-            'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+            '',
         tags: [
             {
                 name: 'UTM',
@@ -226,7 +225,7 @@ const projects = [
     {
         name: 'Korek visit video',
         description:
-            'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+            '',
         tags: [
             {
                 name: 'UTM',
