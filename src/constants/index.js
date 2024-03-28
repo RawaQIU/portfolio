@@ -25,6 +25,7 @@ import {
     carrent,
     jobit,
     yt,
+    industryimg,
     tripguide,
     threejs,
 } from '../assets';
@@ -239,22 +240,22 @@ const projects = [
         image: korek,
         source_code_link: 'https://www.youtube.com/watch?v=yIqDeFATna0',
     },
-    // {
-    //     name: 'Design Prototype',
-    //     description: 'lorem ipsum qqqdsfwwweeeee',
-    //     tags: [
-    //         {
-    //             name: 'UTM',
-    //             color: 'pink-text-gradient',
-    //         },
-    //         {
-    //             name: 'QIU',
-    //             color: 'blue-text-gradient',
-    //         },
-    //     ],
-    //     image: tripguide,
-    //     source_code_link: 'https://github.com/',
-    // },
+    {
+        name: 'Industry Visit Newsletter',
+        description: '',
+        tags: [
+            {
+                name: 'UTM',
+                color: 'pink-text-gradient',
+            },
+            {
+                name: 'QIU',
+                color: 'blue-text-gradient',
+            },
+        ],
+        image: industryimg,
+        source_code_link: 'https://drive.google.com/file/d/1ysq1BRoW0gH4w0CF9EvVuDKbkDsOZZwT/view?usp=drive_link',
+    },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

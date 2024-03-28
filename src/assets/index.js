@@ -11,6 +11,9 @@ import yt from '../assets/yt.png';
 import industry from '../assets/industry.png';
 import korek from '../assets/korek.png';
 import downloads from '../assets/downloads.png';
+import industryimg from '../assets/industryimg.png';
+
+
 
 import css from './tech/css.png';
 import docker from './tech/docker.png';
@@ -42,6 +45,7 @@ export {
     poster,
     yt,
     mobile,
+    industryimg,
     web,
     github,
     menu,
