@@ -12,7 +12,7 @@ import industry from '../assets/industry.png';
 import korek from '../assets/korek.png';
 import downloads from '../assets/downloads.png';
 import industryimg from '../assets/industryimg.png';
-
+import scooter from '../assets/scooter.png';
 
 
 import css from './tech/css.png';
@@ -40,6 +40,7 @@ import tripguide from './tripguide.png';
 
 export {
     logo,
+    scooter,
     backend,
     creator,
     poster,

@@ -5,6 +5,7 @@ import {
     javascript,
     typescript,
     html,
+    scooter,
     css,
     reactjs,
     redux,
@@ -190,7 +191,7 @@ const testimonials = [
 const projects = [
     {
         name: 'Industrial talk poster',
-        description: '',// THis is Card Describtion
+        description: '', // THis is Card Describtion
         tags: [
             {
                 name: 'UTM',
@@ -207,8 +208,7 @@ const projects = [
     },
     {
         name: 'Industrial talk report',
-        description:
-            '',
+        description: '',
         tags: [
             {
                 name: 'UTM',
@@ -225,8 +225,7 @@ const projects = [
     },
     {
         name: 'Korek visit video',
-        description:
-            '',
+        description: '',
         tags: [
             {
                 name: 'UTM',
@@ -254,7 +253,25 @@ const projects = [
             },
         ],
         image: industryimg,
-        source_code_link: 'https://drive.google.com/file/d/1ysq1BRoW0gH4w0CF9EvVuDKbkDsOZZwT/view?usp=drive_link',
+        source_code_link:
+            'https://drive.google.com/file/d/1ysq1BRoW0gH4w0CF9EvVuDKbkDsOZZwT/view?usp=drive_link',
+    },
+    {
+        name: 'Design Thinking Report',
+        description: '',
+        tags: [
+            {
+                name: 'UTM',
+                color: 'pink-text-gradient',
+            },
+            {
+                name: 'QIU',
+                color: 'blue-text-gradient',
+            },
+        ],
+        image: scooter,
+        source_code_link:
+            'https://drive.google.com/file/d/1quIRCGhz8dLj1HPlACZoxOOdgvar1_PS/view?usp=drive_link',
     },
 ];
 
