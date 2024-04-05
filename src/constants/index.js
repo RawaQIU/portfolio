@@ -191,7 +191,8 @@ const testimonials = [
 const projects = [
     {
         name: 'Industrial talk poster',
-        description: '', // THis is Card Describtion
+        description:
+            'KRGs development in sofotware also its market and demand for it is growing and im happy to be a software engnieer becouse i get to be part of the growth', // THis is Card Describtion
         tags: [
             {
                 name: 'UTM',
@@ -208,7 +209,7 @@ const projects = [
     },
     {
         name: 'Industrial talk report',
-        description: '',
+        description: 'In the next four years, as a system developer, I will place a high value on lifelong learning, taking on as many projects as I can to hone my skills, and adopting a balanced approach to development by recognizing how important it is to maintain a work-life balance. The path to success in the constantly changing software development industry will be to take on opportunities while keeping a solid professional basis.',
         tags: [
             {
                 name: 'UTM',
@@ -225,7 +226,7 @@ const projects = [
     },
     {
         name: 'Korek visit video',
-        description: '',
+        description: 'In this trip i learned about how communication works and how the operation is maintained behind the scenes. I also got to see the server room which was really cool how the wires were imbedded under the floor, i can say it was a memroble experience.',
         tags: [
             {
                 name: 'UTM',
@@ -241,7 +242,7 @@ const projects = [
     },
     {
         name: 'Industry Visit Newsletter',
-        description: '',
+        description: 'Going to Korek Telecom was really cool. We got to see how phones and internet stuff work behind the scenes. Learning about communication towers and how data gets sent and stored made me even more interested in this field.',
         tags: [
             {
                 name: 'UTM',
@@ -258,7 +259,7 @@ const projects = [
     },
     {
         name: 'Design Thinking Report',
-        description: '',
+        description: 'My Reflection: Personal Goal: to be a successful software engineer and web app developer. Impact of Design Thinking: i think it will help us alot with approaching problems and emphasizing with clients so i see it as a posative impact. Improvement in this Field: i think by staying up to date with the latest tech and softwares available in the market and analyzing them and also working on my portfolio',
         tags: [
             {
                 name: 'UTM',
